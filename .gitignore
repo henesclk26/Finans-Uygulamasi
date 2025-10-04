@@ -1,0 +1,28 @@
+## Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio cache files
+*.cache
+*.ilk
+*.log
+*.pdb
+*.vspscc
+*.vssscc
+
+# NuGet Packages
+*.nupkg
+packages/
