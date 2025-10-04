@@ -1,6 +1,7 @@
-Kişisel Finans Takip Uygulaması
+***Kişisel Finans Takip Uygulaması***
 
 Gelir, gider ekleme veya silme
+
 Toplam bakiyeyi görme
 
 
